@@ -1,5 +1,4 @@
 
-![sadsae](https://user-images.githubusercontent.com/72175303/112560155-77568080-8dca-11eb-88cf-d5bb95393bf9.png)
 # GGD &middot; ![npm version](https://img.shields.io/npm/v/react.svg?style=flat) &middot; ![Bootstrap](https://img.shields.io/badge/Bootstrap-v5.0-yellowgreen.svg) &middot; ![Java](https://img.shields.io/badge/Java-v11.0-orange.svg)
 We’re **raising awareness** and **providing insight** on the different types of pollution, climate-related hazards, land degradation, and natural disasters that are affecting various regions of the world, **enabling people** to take action by reducing their environmental footprint. Users can track and monitor their statistics with a personalised account and access reliable data and news sources through various mediums. All the while collectively working towards the following UN Sustainable Development Goals:
 ![qwe](https://user-images.githubusercontent.com/72175303/112559949-f7c8b180-8dc9-11eb-83e4-e1b585514571.png)
