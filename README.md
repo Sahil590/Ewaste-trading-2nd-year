@@ -3,8 +3,6 @@
 We’re **raising awareness** and **providing insight** on the different types of pollution, climate-related hazards, land degradation, and natural disasters that are affecting various regions of the world, **enabling people** to take action by reducing their environmental footprint. Users can track and monitor their statistics with a personalised account and access reliable data and news sources through various mediums. All the while collectively working towards the following UN Sustainable Development Goals:
 ![qwe](https://user-images.githubusercontent.com/72175303/112559949-f7c8b180-8dc9-11eb-83e4-e1b585514571.png)
 
-## A glimpse...
-![home](https://user-images.githubusercontent.com/72175303/112677950-40cc4480-8e62-11eb-9cc4-fee2c24473f1.gif)
 
 ## Built With
 Component         | Technology
