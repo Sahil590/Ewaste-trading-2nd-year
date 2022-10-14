@@ -6,9 +6,6 @@ We’re **raising awareness** and **providing insight** on the different types o
 ## A glimpse...
 ![home](https://user-images.githubusercontent.com/72175303/112677950-40cc4480-8e62-11eb-9cc4-fee2c24473f1.gif)
 
-## MVPs
-![features copy2](https://user-images.githubusercontent.com/72175303/112678212-8ee14800-8e62-11eb-9279-9358b421841f.png)
-
 ## Built With
 Component         | Technology
 ---               | ---
@@ -38,14 +35,8 @@ APIs              | [Google News](https://newsapi.org/) and [UserWay](https://us
 
 
 ### Frontend
-1. Get your API KEY at [Google News](https://newsapi.org/).
-2. Clone the repo and ```cd``` into ggd-app-client.
-3. Install NPM packages listed below in 'Required React Modules'
-4. Enter your API in ```Constants.js```
-
-```javascript
-export const NEWS_API_KEY = 'ENTER YOUR API'
-```
+1. Clone the repo and ```cd``` into ggd-app-client.
+2. Install NPM packages listed below in 'Required React Modules'
 
 #### Required React Modules
 Module                | Command
